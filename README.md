@@ -35,3 +35,6 @@ az deployment group create --resource-group avpe-pe --template-file pe.bicep --n
 ![Private Endpoints](./images/pe-20-time.png)
 ![Private Endpoints](./images/pe-40-time.png)
 ![Private Endpoints](./images/pe-80-time.png)
+![Private Endpoints](./images/pe-150-time.png)
+![Private Endpoints](./images/pe-150.png)
+![Private Endpoints](./images/pe-150-dns.png)
